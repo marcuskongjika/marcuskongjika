@@ -1,12 +1,12 @@
 # Hey, I'm Marcus! 👋 
 
-I'm a high school senior at The Country Day School, competitive robotics programmer, and aspiring engineer who loves to build large systems, whether on a robotics field or clean code in an IDE
+I'm an Incoming Computer Science I student at McMaster University, ex-competitive robotics programmer, and aspiring software developer who loves to build large systems, whether on a robotics field or clean code in an IDE
 
 ---
 
 ## 🚀 What I’m Into
 
-- 🤖 **FIRST Robotics (FRC)** – Lead programmer & Coordinator  
+- 🤖 **FIRST Robotics (FRC)** – Ex Lead programmer & Coordinator  
 - 💻 **Software engineering** – Java, C#, JS, algorithms & data structures
 - 🧠 **Problem solving** – turning crappy napkin thoughts into systems that work
   
