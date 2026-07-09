@@ -1,6 +1,6 @@
 # Hey, I'm Marcus! 👋 
 
-I'm an Incoming Computer Science I student at McMaster University, ex-competitive robotics programmer, and aspiring software developer who loves to build large systems, whether on a robotics field or clean code in an IDE
+I'm an Incoming Computer Science I student at McMaster University, ex-competitive robotics programmer, and software engineer who loves to build large systems, whether on a robotics field or clean code in an IDE
 
 ---
 
