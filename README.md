@@ -1,15 +1,23 @@
-# Hey, I'm Marcus! 👋 
+# Hey, I'm Marcus! 👋
 
-I'm an Incoming Computer Science I student at McMaster University, ex-competitive robotics programmer, and software engineer who loves to build large systems, whether on a robotics field or clean code in an IDE
+I'm a Computer Science student at McMaster University, software engineer and ex-competitive robotics programmer, who loves to build large systems, whether on a robotics field or clean code in an IDE
 
 ---
 
-## 🚀 What I’m Into
+## 🎧 Recent Work — ownaux
 
-- 🤖 **FIRST Robotics (FRC)** – Ex Lead programmer & Coordinator  
-- 💻 **Software engineering** – Java, C#, JS, algorithms & data structures
+**ownaux** is an underground music discovery platform — find slept-on artists, climb the ranks, and prove you have the best AUX. I engineered it end-to-end and shipped it across web, iOS, and Android:
+
+- ⚛️ **Frontend** – React + TypeScript + Vite, Tailwind CSS & shadcn-ui
+- 🗄️ **Backend** – Supabase, Postgres, and edge functions
+- 📱 **Mobile** – Native iOS & Android shells with Capacitor
+
+## 🚀 What I'm Into
+
+- 🤖 **FIRST Robotics (FRC)** – Ex Lead programmer & Coordinator
+- 💻 **Software engineering** – Java, C#, JS/TS, algorithms & data structures
 - 🧠 **Problem solving** – turning crappy napkin thoughts into systems that work
-  
+
 I enjoy working on real-world engineering problems where hardware and software intersect.
 
 ## 📫 Connect
