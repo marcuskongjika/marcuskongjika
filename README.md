@@ -4,23 +4,23 @@ I'm a Computer Science student at McMaster University, software engineer and ex-
 
 ---
 
-## 🎧 Recent Work — ownaux
+## Recent Work — ownaux
 
 **ownaux** is an underground music discovery platform — find slept-on artists, climb the ranks, and prove you have the best AUX. I engineered it end-to-end and shipped it across web, iOS, and Android:
 
-- ⚛️ **Frontend** – React + TypeScript + Vite, Tailwind CSS & shadcn-ui
-- 🗄️ **Backend** – Supabase, Postgres, and edge functions
-- 📱 **Mobile** – Native iOS & Android shells with Capacitor
+-  **Frontend** – React + TypeScript + Vite, Tailwind CSS & shadcn-ui
+-  **Backend** – Supabase, Postgres, and edge functions
+-  **Mobile** – Native iOS & Android shells with Capacitor
 
-## 🚀 What I'm Into
+## What I'm Into
 
-- 🤖 **FIRST Robotics (FRC)** – Ex Lead programmer & Coordinator
-- 💻 **Software engineering** – Java, C#, JS/TS, algorithms & data structures
-- 🧠 **Problem solving** – turning crappy napkin thoughts into systems that work
+- **FIRST Robotics (FRC)** – Ex Lead programmer & Coordinator
+- **Software engineering** – Java, C#, JS/TS, algorithms & data structures
+- **Problem solving** – turning crappy napkin thoughts into systems that work
 
 I enjoy working on real-world engineering problems where hardware and software intersect.
 
-## 📫 Connect
+## Connect
 
 Always open to collaborating on robotics, programming projects, or anything interesting.
 
